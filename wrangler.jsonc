@@ -1,5 +1,5 @@
 {
   "name": "admin-ui",
   "compatibility_date": "2026-02-22",
-  "assets": { "directory": "./dist" }
+  "assets": { "directory": "./images" }
 }
